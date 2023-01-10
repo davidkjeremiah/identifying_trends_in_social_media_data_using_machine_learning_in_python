@@ -1,0 +1,11 @@
+id,text
+1,"Check out this new product I just purchased! I am loving it so far. #newproduct #happycustomer"
+2,"I can't believe how terrible the service was at this restaurant. I will never be returning. #terribleservice #neverreturning"
+3,"I just started using this new skincare routine and my skin has never looked better. I am obsessed! #skincare #glowingskin"
+4,"I am so excited to finally be going on vacation! #vacation #relaxation"
+5,"I am loving this new book I just started reading. It is so captivating. #bookworm #newbook"
+6,"I had the worst experience at the gym today. The equipment was all broken and the staff was unhelpful. #gym #worstexperience"
+7,"I just tried this new recipe and it turned out amazing! Definitely adding it to my regular rotation. #cooking #newrecipe"
+8,"I am so disappointed with the customer service at this company. It took multiple attempts to get a response and when I finally did, the representative was rude and unhelpful. #customerservice #disappointed"
+9,"I am loving my new workout routine. I am seeing such great results already. #fitness #newroutine"
+10,"I am so excited to finally be going on a road trip with my friends! #roadtrip #friends"
